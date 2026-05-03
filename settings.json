@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "homosepians.minefort.com",
-    "port": 19132,
+    "ip": "OnlyCloseFriends.aternos.me",
+    "port": 22920,
     "version": "",
     "try-creative": false
   },
