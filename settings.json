@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OnlyCloseFriends.aternos.me",
-    "port": 22920,
+    "ip": "Coaches.aternos.me",
+    "port": 20020,
     "version": "",
     "try-creative": false
   },
